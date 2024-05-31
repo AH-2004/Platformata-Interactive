@@ -1,0 +1,14 @@
+{
+  "name": "platformata-interactive",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "module",
+  "author": "AH",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,28 @@
+html, body { height: 92dvh; }
+
+.center { display: flex; justify-content: center; align-items: center; }
+
+body {
+	padding: 1%;
+}
+
+body > div {
+	box-sizing: border-box;
+	width: 100%;
+	height: 100%;
+	padding: 1%;
+}
+
+.level {
+	display: none;
+}
+
+/* Just for developing */
+
+.show {
+	display: block;
+}
+
+.hide {
+	display: none;
+}
